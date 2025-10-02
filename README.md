@@ -1,5 +1,8 @@
 # Nick Pape
 > Senior Software Engineer | AI & Robotics | Tooling & Systems | New Tech
+![Profile Views](https://komarev.com/ghpvc/?username=nick-pape&style=flat-square)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick-pape&layout=compact&theme=transparent)
 
 ## Dev Tooling
 [spfx-gulp-tools](https://github.com/microsoft/spfx-gulp-tools) - _SPFx / Rush Stack Gulp-based build toolchain packages_
