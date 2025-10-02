@@ -7,7 +7,6 @@
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nick-pape&show_icons=true&hide_rank=true&include_all_commits=true&theme=transparent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-pape&layout=compact&langs_count=8&theme=transparent" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=nick-pape&theme=transparent" />
 </p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -40,6 +39,5 @@
   </td>
 </tr>
 </table>
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nick-pape&style=flat-square)
