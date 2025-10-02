@@ -4,7 +4,7 @@
 ## Dev Tooling
 [spfx-gulp-tools](https://github.com/microsoft/spfx-gulp-tools) - _SPFx / Rush Stack Gulp-based build toolchain packages_
 
-(Experimental) [rush-vscode](https://github.com/nick-pape/rush-vscode) - _Full-featured Rush.js monorepo explorer (packages, deps, shrinkwrap, smart navigation)_  
+[rush-vscode](https://github.com/nick-pape/rush-vscode) (Experimental) - _Full-featured Rush.js monorepo explorer (packages, deps, shrinkwrap, smart navigation)_  
 
 [vscode-extension-toolkit](https://github.com/nick-pape/vscode-extension-toolkit) - _Opinionated scaffolding & structure toolkit for VS Code extensions_
 
