@@ -19,9 +19,9 @@
 <tr>
   <td align="center">
     <a href="https://github.com/nick-pape/ai-services"><img src="https://img.shields.io/badge/ai--services-Repo-orange?logo=docker" /></a><br/>
+    <a href="https://github.com/nick-pape/mcp-proxy-example"><img src="https://img.shields.io/badge/mcp--proxy--example-Repo-orange?logo=docker" /></a><br/>
     <a href="https://github.com/nick-pape/sample-mcp"><img src="https://img.shields.io/badge/sample--mcp-Repo-orange?logo=typescript" /></a><br/>
     <a href="https://github.com/nick-pape/mcp-custom-command-line"><img src="https://img.shields.io/badge/mcp--custom--command--line-Repo-orange?logo=typescript" /></a><br/>
-    <a href="https://github.com/nick-pape/mcp-proxy-example"><img src="https://img.shields.io/badge/mcp--proxy--example-Repo-orange?logo=typescript" /></a><br/>
     <a href="https://github.com/nick-pape/fine-tune-gemma-chat"><img src="https://img.shields.io/badge/fine--tune--gemma--chat-Repo-orange?logo=python" /></a>
   </td>
   <td align="center">
