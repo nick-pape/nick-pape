@@ -1,36 +1,45 @@
-# Nick Pape
-> Senior Software Engineer | AI & Robotics | Tooling & Systems | New Tech
+> AI | Robotics | Dev Tooling | Ops
+<a href="https://www.linkedin.com/in/nick-pape-software">
+  <img src="https://img.shields.io/badge/LinkedIn-Microsoft%20--%20Senior%20Software%20Engineer-blue?logo=linkedin" alt="LinkedIn" />
+</a>
+<p></p>
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nick-pape&show_icons=true&hide_rank=true&include_all_commits=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-pape&layout=compact&langs_count=8&theme=transparent" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=nick-pape&theme=transparent" />
+</p>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <th align="center" width="25%">AI</th>
+  <th align="center" width="25%">Dev Tooling</th>
+  <th align="center" width="25%">Robotics</th>
+  <th align="center" width="25%">Other</th>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/nick-pape/ai-services"><img src="https://img.shields.io/badge/ai--services-Repo-orange?logo=docker" /></a><br/>
+    <a href="https://github.com/nick-pape/sample-mcp"><img src="https://img.shields.io/badge/sample--mcp-Repo-orange?logo=typescript" /></a><br/>
+    <a href="https://github.com/nick-pape/mcp-custom-command-line"><img src="https://img.shields.io/badge/mcp--custom--command--line-Repo-orange?logo=typescript" /></a><br/>
+    <a href="https://github.com/nick-pape/mcp-proxy-example"><img src="https://img.shields.io/badge/mcp--proxy--example-Repo-orange?logo=typescript" /></a><br/>
+    <a href="https://github.com/nick-pape/fine-tune-gemma-chat"><img src="https://img.shields.io/badge/fine--tune--gemma--chat-Repo-orange?logo=python" /></a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/nick-pape/rush-vscode"><img src="https://img.shields.io/badge/rush--vscode-Repo-blue?logo=typescript" /></a><br/>
+    <a href="https://github.com/nick-pape/vscode-extension-toolkit"><img src="https://img.shields.io/badge/vscode--extension--toolkit-Repo-blue?logo=typescript" /></a><br/>
+    <a href="https://github.com/microsoft/spfx-gulp-tools"><img src="https://img.shields.io/badge/spfx--gulp--tools-Microsoft-blue?logo=typescript" /></a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/nick-pape/picar"><img src="https://img.shields.io/badge/picar-Repo-green?logo=python" /></a><br/>
+    <a href="https://github.com/nick-pape/tmc-2240"><img src="https://img.shields.io/badge/tmc--2240-Repo-green?logo=python" /></a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/nick-pape/reading-response-app"><img src="https://img.shields.io/badge/reading--response--app-Repo-lightgrey?logo=electron" /></a><br/>
+    <a href="https://github.com/nick-pape/dice-poker-android"><img src="https://img.shields.io/badge/dice--poker--android-Repo-lightgrey?logo=android" /></a>
+  </td>
+</tr>
+</table>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nick-pape&style=flat-square)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick-pape&layout=compact&theme=transparent)
-
-## Dev Tooling
-[spfx-gulp-tools](https://github.com/microsoft/spfx-gulp-tools) - _SPFx / Rush Stack Gulp-based build toolchain packages_
-
-[rush-vscode](https://github.com/nick-pape/rush-vscode) (Experimental) - _Full-featured Rush.js monorepo explorer (packages, deps, shrinkwrap, smart navigation)_  
-
-[vscode-extension-toolkit](https://github.com/nick-pape/vscode-extension-toolkit) - _Opinionated scaffolding & structure toolkit for VS Code extensions_
-
-## AI
-[ai-services](https://github.com/nick-pape/ai-services) - _Jetson Docker Compose AI stack (LLMs, TTS, STT, web UI)_  
-
-[sample-mcp](https://github.com/nick-pape/sample-mcp) - _Starter MCP server project (Heft + TypeScript)_
-
-[mcp-custom-command-line](https://github.com/nick-pape/mcp-custom-command-line) - _Configurable MCP server that turns CLI tools into AI-accessible actions_  
-
-[mcp-proxy-example](https://github.com/nick-pape/mcp-proxy-example) - _Aggregates multiple MCP servers behind a single OpenAI-compatible endpoint_   
-
-[fine-tune-gemma-chat](https://github.com/nick-pape/fine-tune-gemma-chat) - _Example for fine-tuning Gemma 2 on SMS style conversations_
-
-## 
-
-## Robotics
-[picar](https://github.com/nick-pape/picar) - _Remote servo-driven car control over ZeroMQ_  
-
-[tmc-2240](https://github.com/nick-pape/tmc-2240) - _Python SPI interface for the Trinamic TMC2240 motor driver_
-
-## Other
-[reading-response-app](https://github.com/nick-pape/reading-response-app) - _Electron app for grading course reading responses_  
-
-[dice-poker-android](https://github.com/nick-pape/dice-poker-android) - _Battle Royale style dice poker Android game_
-
