@@ -20,7 +20,7 @@ Teaching agents to play Yahtzee from scratch, benchmarked against an expectimax 
 [![paper](https://img.shields.io/badge/📄_read_the_paper-PDF-red)](https://github.com/papetronics/case-studies-final-project/blob/main/paper/csml_paper.pdf)
 
 ### 🧠 Homelab AI
-The always-on stack that runs my house: a self-hosted AI services bundle ([**ai-services**](https://github.com/nick-pape/ai-services) — Ollama, Open WebUI, STT/TTS), a Rust orchestrator for isolated agent instances ([**zeroclaw-fleet**](https://github.com/nick-pape/zeroclaw-fleet)), and battle-tested vLLM configs for running high-context agentic LLMs on a single RTX 3090 ([**local-llm-research**](https://github.com/nick-pape/local-llm-research)).
+The always-on stack that runs my house: a self-hosted AI services bundle ([**ai-services**](https://github.com/nick-pape/ai-services) — Ollama, Open WebUI, STT/TTS), a Rust orchestrator for isolated agent instances ([**zeroclaw-fleet**](https://github.com/nick-pape/zeroclaw-fleet)), and battle-tested vLLM configs for running high-context agentic LLMs on a single RTX 3090 ([**local-llm-research**](https://github.com/nick-pape/local-llm-research)). The house talks back through [**Claude as a Home Assistant conversation agent**](https://github.com/nick-pape/claude-ha-conversation-agent) and a streaming TTS MCP server ([**pocket-tts-mcp**](https://github.com/nick-pape/pocket-tts-mcp)).
 
 ## 🧰 More projects
 
@@ -36,8 +36,6 @@ The always-on stack that runs my house: a self-hosted AI services bundle ([**ai-
   <td align="center">
     <a href="https://github.com/nick-pape/mcp-proxy-example"><img src="https://img.shields.io/badge/mcp--proxy--example-orange?logo=docker&logoColor=white" /></a><br/>
     <a href="https://github.com/nick-pape/mcp-custom-command-line"><img src="https://img.shields.io/badge/mcp--custom--command--line-orange?logo=typescript&logoColor=white" /></a><br/>
-    <a href="https://github.com/nick-pape/pocket-tts-mcp"><img src="https://img.shields.io/badge/pocket--tts--mcp-orange?logo=python&logoColor=white" /></a><br/>
-    <a href="https://github.com/nick-pape/claude-ha-conversation-agent"><img src="https://img.shields.io/badge/claude--ha--agent-orange?logo=homeassistant&logoColor=white" /></a><br/>
     <a href="https://github.com/nick-pape/fine-tune-gemma-chat"><img src="https://img.shields.io/badge/fine--tune--gemma-orange?logo=google&logoColor=white" /></a>
   </td>
   <td align="center">
