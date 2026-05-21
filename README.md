@@ -1,12 +1,8 @@
-# Hi, I'm Nick 👋
-
+> AI | Robotics | Dev Tooling | Ops
 <a href="https://www.linkedin.com/in/nick-pape-software">
-  <img src="https://img.shields.io/badge/LinkedIn-Microsoft%20Senior%20Software%20Engineer-blue?logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Microsoft%20--%20Senior%20Software%20Engineer-blue?logo=linkedin" alt="LinkedIn" />
 </a>
-
-**Senior Software Engineer at Microsoft.** By day I work on [Rush Stack](https://github.com/microsoft/rushstack) and the SharePoint Framework toolchain — dev tooling at the scale where shaving a few seconds off a build is worth a sprint.
-
-Off the clock I build **AI-agent infrastructure**, run a **self-hosted homelab AI stack**, and wire up the occasional robot. Most of what's below is real — shipped, used daily, and load-bearing in my house. 🏠
+<p></p>
 
 ## 🚀 Featured
 
@@ -18,19 +14,13 @@ Configure once, supervise by exception — run Claude Code, Copilot, Codex, Goos
 [![docs](https://img.shields.io/badge/docs-readthedocs-blue?logo=readthedocs&logoColor=white)](https://nick-pape.github.io/grackle/)
 [![stars](https://img.shields.io/github/stars/nick-pape/grackle?logo=github&label=stars)](https://github.com/nick-pape/grackle)
 
-### [📝 openloops](https://github.com/nick-pape/openloops) · *local-first notes & day planner*
-Capture text, images, and audio (auto-transcribed); get AI-powered project summaries via Ollama/OpenAI; import calendars and generate time-blocked schedules. Everything stays local in SQLite. Electron · React · TypeScript · Drizzle.
-
-### [🦀 zeroclaw-fleet](https://github.com/nick-pape/zeroclaw-fleet) · *multi-tenant agent orchestrator*
-Runs many isolated [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) instances under one host — each with its own identity, MCP credentials, cost ledger, and dashboard, behind an auth-translated reverse proxy. Written in Rust.
-
-### 🧠 Homelab AI · [ai-services](https://github.com/nick-pape/ai-services) · [local-llm-research](https://github.com/nick-pape/local-llm-research)
-A self-hosted household AI stack (Ollama, Open WebUI, STT/TTS) running on a Jetson, plus battle-tested vLLM configs for squeezing high-context agentic LLMs onto a single RTX 3090.
-
 ### [🎲 Reinforcement Learning for Yahtzee](https://github.com/papetronics/case-studies-final-project) · *A2C · PPO · REINFORCE*
-My UT Austin MSAI Case Studies capstone: teaching agents to play Yahtzee from scratch, benchmarked against an expectimax baseline. Full research paper, training scripts, and W&B experiments included.
+Teaching agents to play Yahtzee from scratch, benchmarked against an expectimax baseline — my UT Austin MSAI Case Studies capstone. Full research paper, training scripts, and W&B experiments included.
 
 [![paper](https://img.shields.io/badge/📄_read_the_paper-PDF-red)](https://github.com/papetronics/case-studies-final-project/blob/main/paper/csml_paper.pdf)
+
+### 🧠 Homelab AI
+The always-on stack that runs my house: a self-hosted AI services bundle ([**ai-services**](https://github.com/nick-pape/ai-services) — Ollama, Open WebUI, STT/TTS), a Rust orchestrator for isolated agent instances ([**zeroclaw-fleet**](https://github.com/nick-pape/zeroclaw-fleet)), and battle-tested vLLM configs for running high-context agentic LLMs on a single RTX 3090 ([**local-llm-research**](https://github.com/nick-pape/local-llm-research)).
 
 ## 🧰 More projects
 
@@ -53,14 +43,13 @@ My UT Austin MSAI Case Studies capstone: teaching agents to play Yahtzee from sc
   <td align="center">
     <a href="https://github.com/nick-pape/rush-vscode"><img src="https://img.shields.io/badge/rush--vscode-blue?logo=visualstudiocode&logoColor=white" /></a><br/>
     <a href="https://github.com/nick-pape/vscode-extension-toolkit"><img src="https://img.shields.io/badge/vscode--extension--toolkit-blue?logo=typescript&logoColor=white" /></a><br/>
-    <a href="https://github.com/nick-pape/sample-mcp"><img src="https://img.shields.io/badge/sample--mcp-blue?logo=typescript&logoColor=white" /></a><br/>
-    <a href="https://github.com/nick-pape/spfx"><img src="https://img.shields.io/badge/spfx_cli_(mine)-blue?logo=microsoftsharepoint&logoColor=white" /></a>
+    <a href="https://github.com/nick-pape/sample-mcp"><img src="https://img.shields.io/badge/sample--mcp-blue?logo=typescript&logoColor=white" /></a>
   </td>
   <td align="center">
-    <sub><i>upstream repos I work on</i></sub><br/>
     <a href="https://github.com/microsoft/rushstack"><img src="https://img.shields.io/badge/Rush_Stack-0078D4?logo=microsoft&logoColor=white" /></a><br/>
     <a href="https://github.com/SharePoint/spfx"><img src="https://img.shields.io/badge/SharePoint_Framework-0078D4?logo=microsoftsharepoint&logoColor=white" /></a><br/>
-    <a href="https://github.com/microsoft/spfx-gulp-tools"><img src="https://img.shields.io/badge/spfx--gulp--tools-0078D4?logo=gulp&logoColor=white" /></a>
+    <a href="https://github.com/microsoft/spfx-gulp-tools"><img src="https://img.shields.io/badge/spfx--gulp--tools-0078D4?logo=gulp&logoColor=white" /></a><br/>
+    <a href="https://github.com/nick-pape/spfx"><img src="https://img.shields.io/badge/spfx_cli_(mine)-0078D4?logo=microsoftsharepoint&logoColor=white" /></a>
   </td>
   <td align="center">
     <a href="https://github.com/nick-pape/picar"><img src="https://img.shields.io/badge/picar-green?logo=raspberrypi&logoColor=white" /></a><br/>
@@ -69,7 +58,7 @@ My UT Austin MSAI Case Studies capstone: teaching agents to play Yahtzee from sc
     <a href="https://github.com/nick-pape/pi-respeaker-wyoming"><img src="https://img.shields.io/badge/respeaker--wyoming-green?logo=raspberrypi&logoColor=white" /></a>
   </td>
   <td align="center">
-    <a href="https://github.com/papetronics/case-studies-final-project"><img src="https://img.shields.io/badge/yahtzee--rl-blueviolet?logo=pytorch&logoColor=white" /></a><br/>
+    <a href="https://github.com/nick-pape/openloops"><img src="https://img.shields.io/badge/openloops-blueviolet?logo=electron&logoColor=white" /></a><br/>
     <a href="https://github.com/nick-pape/dice-poker-android"><img src="https://img.shields.io/badge/dice--poker_(android)-blueviolet?logo=android&logoColor=white" /></a><br/>
     <a href="https://github.com/nick-pape/reading-response-app"><img src="https://img.shields.io/badge/reading--response--app-blueviolet?logo=react&logoColor=white" /></a>
   </td>
